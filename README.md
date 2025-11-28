@@ -31,7 +31,7 @@ Yahan par main apne best projects highlight karta hoon:
 - Tailwind Designs  
 - PHP Based Web Apps  
 
-(Projects kaam kay hain to links baad me easily add ho jayenge.)
+\
 
 ---
 
@@ -46,4 +46,4 @@ Yahan par main apne best projects highlight karta hoon:
 
 ### 📫 Contact  
 Agar kisi project ya collab ke liye reach karna chaho to yahan contact kar sakte ho:  
-**Email:** your-email@example.com  
+**Email:** abdulrehman07043@gmail.com  
