@@ -19,18 +19,18 @@
 
 ---
 
-### 💡 Who I Am
+### 💡 About Me
 
-I'm a developer who loves turning ideas into clean, responsive and modern web interfaces.
+I'm a passionate developer who loves turning ideas into clean, responsive, and modern web interfaces.
 Frontend ka neat design aur backend ka solid logic — dono cheezein mujhe equally pasand hain.
 
 ---
 
-### 🧰 Skills I Work With
+### 🧰 Skills
 
 **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React
 **Back-End:** PHP, SQL
-**Tools:** Git, GitHub, VS Code
+**Tools & Platforms:** Git, GitHub, VS Code
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -40,7 +40,6 @@ Frontend ka neat design aur backend ka solid logic — dono cheezein mujhe equal
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -57,16 +56,16 @@ Frontend ka neat design aur backend ka solid logic — dono cheezein mujhe equal
 
 ### 📌 Featured Work
 
-Yahan par main apne best projects highlight karta hoon:
-
-* Personal Portfolio
-* React UI Components
-* Tailwind Designs
-* PHP Based Web Apps
+<p align="center">
+  <a href="https://github.com/hamza31-oss/portfolio"><img src="https://via.placeholder.com/200x120?text=Portfolio" alt="Portfolio" /></a>
+  <a href="https://github.com/hamza31-oss/react-ui-components"><img src="https://via.placeholder.com/200x120?text=React+Components" alt="React UI" /></a>
+  <a href="https://github.com/hamza31-oss/tailwind-designs"><img src="https://via.placeholder.com/200x120?text=Tailwind+Designs" alt="Tailwind" /></a>
+  <a href="https://github.com/hamza31-oss/php-web-apps"><img src="https://via.placeholder.com/200x120?text=PHP+Apps" alt="PHP Apps" /></a>
+</p>
 
 ---
 
-### 📈 My GitHub Activity
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hamza31-oss&show_icons=true&theme=radical" />
@@ -76,7 +75,7 @@ Yahan par main apne best projects highlight karta hoon:
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://github.com/hamza31-oss">
@@ -95,7 +94,7 @@ Yahan par main apne best projects highlight karta hoon:
 ### 🌟 Fun & Stickers
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150"/>
+  <img src="https://c.tenor.com/3oEjI6SIIHBdRxXI40.gif" width="100"/>
+  <img src="https://c.tenor.com/26BRuo6sLetdllPAQ.gif" width="100"/>
+  <img src="https://c.tenor.com/xT0xeJpnrWC4XWblEk.gif" width="100"/>
 </p>
