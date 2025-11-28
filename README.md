@@ -54,14 +54,14 @@ Frontend ka neat design aur backend ka solid logic — dono cheezein mujhe equal
 
 ---
 
-### 📌 Featured Work
+### 📌 Featured Work  
+Yahan par main apne best projects highlight karta hoon:  
+- Personal Portfolio  
+- React UI Components  
+- Tailwind Designs  
+- PHP Based Web Apps  
 
-<p align="center">
-  <a href="https://github.com/hamza31-oss/portfolio"><img src="https://via.placeholder.com/200x120?text=Portfolio" alt="Portfolio" /></a>
-  <a href="https://github.com/hamza31-oss/react-ui-components"><img src="https://via.placeholder.com/200x120?text=React+Components" alt="React UI" /></a>
-  <a href="https://github.com/hamza31-oss/tailwind-designs"><img src="https://via.placeholder.com/200x120?text=Tailwind+Designs" alt="Tailwind" /></a>
-  <a href="https://github.com/hamza31-oss/php-web-apps"><img src="https://via.placeholder.com/200x120?text=PHP+Apps" alt="PHP Apps" /></a>
-</p>
+\
 
 ---
 
