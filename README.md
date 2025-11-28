@@ -65,15 +65,7 @@ Frontend ka neat design aur backend ka solid logic — dono cheezein mujhe equal
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamza31-oss&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza31-oss&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🤝 Connect with Me
 
@@ -91,10 +83,6 @@ Frontend ka neat design aur backend ka solid logic — dono cheezein mujhe equal
 
 ---
 
-### 🌟 Fun & Stickers
-
-<p align="center">
-  <img src="https://c.tenor.com/3oEjI6SIIHBdRxXI40.gif" width="100"/>
-  <img src="https://c.tenor.com/26BRuo6sLetdllPAQ.gif" width="100"/>
-  <img src="https://c.tenor.com/xT0xeJpnrWC4XWblEk.gif" width="100"/>
-</p>
+### 📫 Contact  
+Agar kisi project ya collab ke liye reach karna chaho to yahan contact kar sakte ho:  
+**Email:** abdulrehman07043@gmail.com  
