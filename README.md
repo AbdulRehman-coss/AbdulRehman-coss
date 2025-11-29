@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/abdulrehman/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:abdulrehman07043@gmail.com">
+  <a href="mailto:abdulrehman07043@gmail.com" style="font-size: 12px;">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email Badge"/>
   </a>
 </p>
@@ -29,7 +29,7 @@ I'm a passionate developer who loves turning ideas into clean, responsive, and m
 
 **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React
 
- **Back-End:** PHP, SQL
+**Back-End:** PHP, SQL  
 **Tools & Platforms:** Git, GitHub, VS Code
 
 <p align="center">
@@ -47,11 +47,8 @@ I'm a passionate developer who loves turning ideas into clean, responsive, and m
 
 ### 🎯 What I Focus On
 * Making websites fast, smooth, and responsive
-
 * Special focus on creating clean UI/UX
-
 * Developing real-world projects and trying new ideas
-
 * I prefer quality and simplicity in coding
 
 ---
@@ -63,11 +60,7 @@ Here I highlight my best projects:
 - Tailwind Designs  
 - PHP Based Web Apps  
 
-\
-
 ---
-
-
 
 ### 🤝 Connect with Me
 
@@ -78,17 +71,19 @@ Here I highlight my best projects:
   <a href="https://www.linkedin.com/in/abdulrehman/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:abdulrehman07043@gmail.com">
+  <a href="mailto:abdulrehman07043@gmail.com" style="font-size: 12px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
- 📫 Contact  
+### 📫 Contact  
 If you want to reach out for any project or collaboration, you can contact me here:
 
 **Email:** abdulrehman07043@gmail.com  
+
 ---
-### ⭐ Thank You for Visiting My Profile!
-📌 Stay Creative · Stay Neon · Keep Building ⚡
+
+<h2 align="center">⭐ Thank You for Visiting My Profile!</h2>
+<p align="center">📌 Stay Creative · Stay Neon · Keep Building ⚡</p>
