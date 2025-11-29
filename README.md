@@ -28,7 +28,8 @@ I'm a passionate developer who loves turning ideas into clean, responsive, and m
 ### 🧰 Skills
 
 **Front-End:** HTML, CSS, JavaScript, Bootstrap, Tailwind, React
-**Back-End:** PHP, SQL
+
+ **Back-End:** PHP, SQL
 **Tools & Platforms:** Git, GitHub, VS Code
 
 <p align="center">
@@ -87,3 +88,6 @@ Here I highlight my best projects:
 ### 📫 Contact  
 If you want to reach out for any project or collaboration, you can contact me here:
 **Email:** abdulrehman07043@gmail.com  
+
+⭐ Thank You for Visiting My Profile!
+📌 Stay Creative · Stay Neon · Keep Building ⚡
