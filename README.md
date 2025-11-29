@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">Front-End & PHP Developer</h3>
+<h3 align="center">Full-Stack & PHP Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamza31-oss&color=blue" alt="Profile views"/>
@@ -21,8 +21,7 @@
 
 ### 💡 About Me
 
-I'm a passionate developer who loves turning ideas into clean, responsive, and modern web interfaces.
-Frontend ka neat design aur backend ka solid logic — dono cheezein mujhe equally pasand hain.
+I'm a passionate developer who loves turning ideas into clean, responsive, and modern web interfaces. I enjoy both neat frontend design and solid backend logic equally.
 
 ---
 
@@ -46,17 +45,19 @@ Frontend ka neat design aur backend ka solid logic — dono cheezein mujhe equal
 ---
 
 ### 🎯 What I Focus On
+* Making websites fast, smooth, and responsive
 
-* Websites ko **fast, smooth aur responsive** banana
-* Clean UI/UX banane par special focus
-* Real-world projects develop karna aur naye ideas try karna
-* Coding me quality aur simplicity ko prefer karta hoon
+* Special focus on creating clean UI/UX
+
+* Developing real-world projects and trying new ideas
+
+* I prefer quality and simplicity in coding
 
 ---
 
 ### 📌 Featured Work  
-Yahan par main apne best projects highlight karta hoon:  
-- Personal Portfolio  
+Here I highlight my best projects:  
+- Personal Portfolio 
 - React UI Components  
 - Tailwind Designs  
 - PHP Based Web Apps  
@@ -84,5 +85,5 @@ Yahan par main apne best projects highlight karta hoon:
 ---
 
 ### 📫 Contact  
-Agar kisi project ya collab ke liye reach karna chaho to yahan contact kar sakte ho:  
+If you want to reach out for any project or collaboration, you can contact me here:
 **Email:** abdulrehman07043@gmail.com  
